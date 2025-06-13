@@ -1,4 +1,4 @@
-# Final Project - Group 22
+# Final Project of NYCU.EdgeAI - Group 22
 
 ### The Implementation of Distilling Large Language Model
 
